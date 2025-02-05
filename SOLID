@@ -1,0 +1,7 @@
+SOLID PRINCIPLES:
+
+Single Responsibility Principle:"A class should have only one reason/responsibility to change"
+Open/Close Principle:"software entities should be open for extension but close for modification"
+Liskov Substitution principle:"Super class objects should be replaceable with the sub class object without changing the behaviour of the program"
+Interface Sagregation Principle:"should not be forced to depend on interface"
+Dependency Inversion Principle:"high level modules should not depend on low level modules , both should depends on abstraction"
